@@ -16,7 +16,7 @@ yarn start
 ```
 ### Deploy
 ```
-[a link](http://identifica.pe.hu/mil/)
+[Deploy](http://identifica.pe.hu/mil/)
 ```
 
 ### Tela 1 Login Falha
