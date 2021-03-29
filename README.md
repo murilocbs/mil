@@ -14,7 +14,8 @@ yarn
 ```
 yarn start 
 ```
-[Deploy](http://identifica.pe.hu/mil/){:target="_blank"}
+
+[Deploy](http://identifica.pe.hu/mil/?target=_blank)
 
 ### Tela 1 Login Falha
 https://i.imgur.com/vtyRclx.gif
