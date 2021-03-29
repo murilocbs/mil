@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MIL
 ```
 git clone https://github.com/murilocbs/mil.git
@@ -17,12 +16,15 @@ yarn start
 ```
 
 ### Tela 1 Login Falha
+https://i.imgur.com/vtyRclx.gif
 ![](https://i.imgur.com/vtyRclx.gif)
 
 ### Tela 2 Registro
+https://i.imgur.com/FutX7cJ.gif
 ![](https://i.imgur.com/FutX7cJ.gif)
 
 ### Tela 3 Login Sucesso
+https://i.imgur.com/fxvDqRT.gif
 ![](https://i.imgur.com/fxvDqRT.gif)
 
 
